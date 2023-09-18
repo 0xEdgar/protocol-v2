@@ -1493,7 +1493,7 @@ dependencies = [
 [[package]]
 name = "phoenix-v1"
 version = "0.2.4"
-source = "git+https://github.com/drift-labs/phoenix-v1?rev=bf6b84#bf6b8447047aa16485d8d976528e43f5d53331d9"
+source = "git+https://github.com/0xEdgar/phoenix-v1?rev=4f3a7be#4f3a7be256451a701fb0a77920920e5ca53f38b8"
 dependencies = [
  "borsh 0.9.3",
  "bytemuck",
